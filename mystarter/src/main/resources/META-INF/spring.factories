@@ -1,0 +1,2 @@
+# Application Context Initializers
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.garwer.myStarter.MyAutoConfiguration

@@ -1,4 +1,4 @@
-package com.garwer.springboot.myStarter;
+package com.garwer.myStarter;
 
 /**
  * @Author: Garwer
@@ -9,7 +9,7 @@ public class HelloService {
     private String msg;
 
     public String sayHello() {
-        return "Hello " + msg;
+        return "Hello: " + msg;
     }
 
     public String getMsg() {
